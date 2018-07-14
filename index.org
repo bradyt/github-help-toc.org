@@ -1,0 +1,1027 @@
+#+TITLE: help.github.com index
+* [[https://help.github.com/categories/bootcamp][Bootcamp]]
+
+  - [[https://help.github.com/articles/set-up-git][Set up git]]
+  - [[https://help.github.com/articles/create-a-repo][Create a repo]]
+  - [[https://help.github.com/articles/fork-a-repo][Fork a repo]]
+  - [[https://help.github.com/articles/be-social][Be social]]
+
+* [[https://help.github.com/categories/setup][Setup]]
+
+  - [[https://help.github.com/articles/signing-up-for-a-new-github-account][Signing up for a new GitHub account]]
+  - [[https://help.github.com/articles/verifying-your-email-address][Verifying your email address]]
+  - [[https://help.github.com/articles/troubleshooting-email-verification][Troubleshooting email verification]]
+  - [[https://help.github.com/articles/about-commit-email-addresses][About commit email addresses]]
+  - [[https://help.github.com/articles/setting-your-commit-email-address-on-github][Setting your commit email address on GitHub]]
+  - [[https://help.github.com/articles/setting-your-commit-email-address-in-git][Setting your commit email address in Git]]
+  - [[https://help.github.com/articles/blocking-command-line-pushes-that-expose-your-personal-email-address][Blocking command line pushes that expose your personal email address]]
+  - [[https://help.github.com/articles/setting-your-username-in-git][Setting your username in Git]]
+  - [[https://help.github.com/articles/dealing-with-line-endings][Dealing with line endings]]
+  - [[https://help.github.com/articles/supported-browsers][Supported browsers]]
+
+* [[https://help.github.com/categories/about-github][About GitHub]]
+
+  - [[https://help.github.com/articles/github-glossary][GitHub Glossary]]
+  - [[https://help.github.com/articles/git-and-github-learning-resources][Git and GitHub learning resources]]
+  - [[https://help.github.com/articles/differences-between-user-and-organization-accounts][Differences between user and organization accounts]]
+  - [[https://help.github.com/articles/access-permissions-on-github][Access permissions on GitHub]]
+  - [[https://help.github.com/articles/github-s-billing-plans][GitHub's billing plans]]
+  - [[https://help.github.com/articles/how-does-upgrading-or-downgrading-affect-the-billing-process][How does upgrading or downgrading affect the billing process?]]
+
+* [[https://help.github.com/categories/exploring-projects-on-github][Exploring projects on GitHub]]
+
+  - [[https://help.github.com/articles/finding-open-source-projects-on-github][Finding open source projects on GitHub]]
+  - [[https://help.github.com/articles/about-your-personal-dashboard][About your personal dashboard]]
+  - [[https://help.github.com/articles/about-your-organization-dashboard][About your organization dashboard]]
+  - [[https://help.github.com/articles/about-topics][About topics]]
+  - [[https://help.github.com/articles/classifying-your-repository-with-topics][Classifying your repository with topics]]
+  - [[https://help.github.com/articles/about-stars][About stars]]
+  - [[https://help.github.com/articles/managing-your-stars][Managing your stars]]
+  - [[https://help.github.com/articles/following-people][Following people]]
+  - [[https://help.github.com/articles/about-github-mirrors][About GitHub mirrors]]
+
+* [[https://help.github.com/categories/using-git][Using Git]]
+
+  - [[https://help.github.com/articles/git-cheatsheet][Git cheatsheet]]
+  - [[https://help.github.com/articles/ignoring-files][Ignoring files]]
+  - [[https://help.github.com/articles/associating-text-editors-with-git][Associating text editors with Git]]
+  - [[https://help.github.com/articles/what-is-a-good-git-workflow][What is a good Git workflow?]]
+
+* [[https://help.github.com/categories/setting-up-and-managing-your-github-user-account][Setting up and managing your GitHub user account]]
+
+  - [[https://help.github.com/articles/managing-user-account-settings][Managing user account settings]]
+
+    - [[https://help.github.com/articles/changing-your-github-username][Changing your GitHub username]]
+    - [[https://help.github.com/articles/merging-multiple-user-accounts][Merging multiple user accounts]]
+    - [[https://help.github.com/articles/deleting-your-user-account][Deleting your user account]]
+    - [[https://help.github.com/articles/permission-levels-for-a-user-account-repository][Permission levels for a user account repository]]
+    - [[https://help.github.com/articles/what-happens-when-i-change-my-username][What happens when I change my username?]]
+    - [[https://help.github.com/articles/best-practices-for-leaving-your-company][Best practices for leaving your company]]
+    - [[https://help.github.com/articles/what-does-the-available-for-hire-checkbox-do][What does the 'Available for hire' checkbox do?]]
+    - [[https://help.github.com/articles/converting-a-user-into-an-organization][Converting a user into an organization]]
+    - [[https://help.github.com/articles/integrating-jira-with-your-personal-projects][Integrating JIRA with your personal projects]]
+
+  - [[https://help.github.com/articles/managing-email-preferences][Managing email preferences]]
+
+    - [[https://help.github.com/articles/types-of-emails-github-sends][Types of emails GitHub sends]]
+    - [[https://help.github.com/articles/adding-an-email-address-to-your-github-account][Adding an email address to your GitHub account]]
+    - [[https://help.github.com/articles/changing-your-primary-email-address][Changing your primary email address]]
+    - [[https://help.github.com/articles/setting-a-backup-email-address][Setting a backup email address]]
+    - [[https://help.github.com/articles/managing-marketing-emails-from-github][Managing marketing emails from GitHub]]
+    - [[https://help.github.com/articles/remembering-your-github-username-or-email][Remembering your GitHub username or email]]
+
+  - [[https://help.github.com/articles/managing-your-membership-in-organizations][Managing your membership in organizations]]
+
+    - [[https://help.github.com/articles/accessing-an-organization][Accessing an organization]]
+    - [[https://help.github.com/articles/viewing-people-s-roles-in-an-organization][Viewing people's roles in an organization]]
+    - [[https://help.github.com/articles/requesting-organization-approval-for-oauth-apps][Requesting organization approval for OAuth Apps]]
+    - [[https://help.github.com/articles/publicizing-or-hiding-organization-membership][Publicizing or hiding organization membership]]
+    - [[https://help.github.com/articles/removing-yourself-from-an-organization][Removing yourself from an organization]]
+
+  - [[https://help.github.com/articles/upgrading-your-personal-account-s-billing-plan][Upgrading your personal account's billing plan]]
+
+    - [[https://help.github.com/articles/user-account-billing-plans][User account billing plans]]
+    - [[https://help.github.com/articles/upgrading-your-personal-account][Upgrading your personal account]]
+
+  - [[https://help.github.com/articles/paying-for-user-accounts][Paying for user accounts]]
+
+    - [[https://help.github.com/articles/updating-your-personal-account-s-payment-method][Updating your personal account's payment method]]
+    - [[https://help.github.com/articles/switching-payment-methods-for-your-personal-account][Switching payment methods for your personal account]]
+    - [[https://help.github.com/articles/removing-a-payment-method-associated-with-your-user-account][Removing a payment method associated with your user account]]
+    - [[https://help.github.com/articles/switching-between-monthly-and-yearly-billing-for-your-personal-account][Switching between monthly and yearly billing for your personal account]]
+    - [[https://help.github.com/articles/redeeming-a-coupon-for-your-personal-account][Redeeming a coupon for your personal account]]
+    - [[https://help.github.com/articles/troubleshooting-a-declined-credit-card-charge][Troubleshooting a declined credit card charge]]
+    - [[https://help.github.com/articles/unlocking-a-locked-personal-account][Unlocking a locked personal account]]
+    - [[https://help.github.com/articles/discounted-personal-accounts][Discounted personal accounts]]
+
+  - [[https://help.github.com/articles/viewing-and-managing-your-personal-account-s-billing-information][Viewing and managing your personal account's billing information]]
+
+    - [[https://help.github.com/articles/setting-your-personal-account-s-billing-email][Setting your personal account's billing email]]
+    - [[https://help.github.com/articles/finding-your-personal-account-s-next-billing-date][Finding your personal account's next billing date]]
+    - [[https://help.github.com/articles/downloading-receipts-for-personal-accounts][Downloading receipts for personal accounts]]
+    - [[https://help.github.com/articles/adding-information-to-your-personal-account-s-receipts][Adding information to your personal account's receipts]]
+    - [[https://help.github.com/articles/viewing-and-managing-pending-changes-to-your-personal-account-s-billing-plan][Viewing and managing pending changes to your personal account's billing plan]]
+
+  - [[https://help.github.com/articles/downgrading-your-personal-account-s-billing-plan][Downgrading your personal account's billing plan]]
+
+    - [[https://help.github.com/articles/downgrading-a-user-account-to-free][Downgrading a user account to free]]
+
+  - [[https://help.github.com/articles/managing-your-personal-account-s-apps][Managing your personal account's apps]]
+
+    - [[https://help.github.com/articles/upgrading-an-app-for-your-personal-account][Upgrading an app for your personal account]]
+    - [[https://help.github.com/articles/downgrading-an-app-for-your-personal-account][Downgrading an app for your personal account]]
+    - [[https://help.github.com/articles/canceling-an-app-for-your-personal-account][Canceling an app for your personal account]]
+
+  - [[https://help.github.com/articles/managing-large-file-storage-and-bandwidth-for-your-personal-account][Managing large file storage and bandwidth for your personal account]]
+
+    - [[https://help.github.com/articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account][Purchasing additional storage and bandwidth for a personal account]]
+    - [[https://help.github.com/articles/downgrading-storage-and-bandwidth-for-a-personal-account][Downgrading storage and bandwidth for a personal account]]
+
+* [[https://help.github.com/categories/authenticating-to-github][Authenticating to GitHub]]
+
+  - [[https://help.github.com/articles/keeping-your-account-and-data-secure][Keeping your account and data secure]]
+
+    - [[https://help.github.com/articles/creating-a-strong-password][Creating a strong password]]
+    - [[https://help.github.com/articles/updating-your-github-access-credentials][Updating your GitHub access credentials]]
+    - [[https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line][Creating a personal access token for the command line]]
+    - [[https://help.github.com/articles/reviewing-your-ssh-keys][Reviewing your SSH keys]]
+    - [[https://help.github.com/articles/reviewing-your-deploy-keys][Reviewing your deploy keys]]
+    - [[https://help.github.com/articles/authorizing-oauth-apps][Authorizing OAuth Apps]]
+    - [[https://help.github.com/articles/reviewing-your-authorized-integrations][Reviewing your authorized integrations]]
+    - [[https://help.github.com/articles/reviewing-your-security-log][Reviewing your security log]]
+    - [[https://help.github.com/articles/removing-sensitive-data-from-a-repository][Removing sensitive data from a repository]]
+    - [[https://help.github.com/articles/about-anonymized-image-urls][About anonymized image URLs]]
+    - [[https://help.github.com/articles/about-github-s-ip-addresses][About GitHub's IP addresses]]
+    - [[https://help.github.com/articles/troubleshooting-connectivity-problems][Troubleshooting connectivity problems]]
+    - [[https://help.github.com/articles/github-s-ssh-key-fingerprints][GitHub's SSH key fingerprints]]
+    - [[https://help.github.com/articles/sudo-mode][Sudo mode]]
+    - [[https://help.github.com/articles/preventing-unauthorized-access][Preventing unauthorized access]]
+
+  - [[https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa][Securing your account with two-factor authentication (2FA)]]
+
+    - [[https://help.github.com/articles/about-two-factor-authentication][About Two-Factor Authentication]]
+    - [[https://help.github.com/articles/configuring-two-factor-authentication-via-a-totp-mobile-app][Configuring two-factor authentication via a TOTP mobile app]]
+    - [[https://help.github.com/articles/configuring-two-factor-authentication-via-text-message][Configuring two-factor authentication via text message]]
+    - [[https://help.github.com/articles/configuring-two-factor-authentication-via-fido-u2f][Configuring two-factor authentication via FIDO U2F]]
+    - [[https://help.github.com/articles/downloading-your-two-factor-authentication-recovery-codes][Downloading your two-factor authentication recovery codes]]
+    - [[https://help.github.com/articles/setting-a-fallback-authentication-number][Setting a fallback authentication number]]
+    - [[https://help.github.com/articles/providing-your-2fa-authentication-code][Providing your 2FA authentication code]]
+    - [[https://help.github.com/articles/authenticating-to-github-using-fido-u2f-via-nfc][Authenticating to GitHub using FIDO U2F via NFC]]
+    - [[https://help.github.com/articles/changing-two-factor-authentication-delivery-methods-for-your-mobile-device][Changing two-factor authentication delivery methods for your mobile device]]
+    - [[https://help.github.com/articles/recovering-your-account-if-you-lost-your-2fa-credentials][Recovering your account if you lost your 2FA credentials]]
+    - [[https://help.github.com/articles/countries-where-sms-authentication-is-supported][Countries where SMS authentication is supported]]
+    - [[https://help.github.com/articles/disabling-two-factor-authentication-for-your-personal-account][Disabling two-factor authentication for your personal account]]
+
+  - [[https://help.github.com/articles/adding-a-fallback-authentication-method-with-recover-accounts-elsewhere][Adding a fallback authentication method with Recover Accounts Elsewhere]]
+
+    - [[https://help.github.com/articles/about-recover-accounts-elsewhere][About Recover Accounts Elsewhere]]
+    - [[https://help.github.com/articles/generating-and-storing-an-account-recovery-token][Generating and storing an account recovery token]]
+    - [[https://help.github.com/articles/authenticating-with-an-account-recovery-token][Authenticating with an account recovery token]]
+
+  - [[https://help.github.com/articles/authenticating-to-a-github-organization-with-saml-single-sign-on][Authenticating to a GitHub organization with SAML single sign-on]]
+
+    - [[https://help.github.com/articles/about-authentication-with-saml-single-sign-on][About authentication with SAML single sign-on]]
+    - [[https://help.github.com/articles/authorizing-an-ssh-key-for-use-with-a-saml-single-sign-on-organization][Authorizing an SSH key for use with a SAML single sign-on organization]]
+    - [[https://help.github.com/articles/authorizing-a-personal-access-token-for-use-with-a-saml-single-sign-on-organization][Authorizing a personal access token for use with a SAML single sign-on organization]]
+    - [[https://help.github.com/articles/viewing-and-managing-your-active-saml-sessions][Viewing and managing your active SAML sessions]]
+
+  - [[https://help.github.com/articles/connecting-to-github-with-ssh][Connecting to GitHub with SSH]]
+
+    - [[https://help.github.com/articles/about-ssh][About SSH]]
+    - [[https://help.github.com/articles/checking-for-existing-ssh-keys][Checking for existing SSH keys]]
+    - [[https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent][Generating a new SSH key and adding it to the ssh-agent]]
+    - [[https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account][Adding a new SSH key to your GitHub account]]
+    - [[https://help.github.com/articles/testing-your-ssh-connection][Testing your SSH connection]]
+    - [[https://help.github.com/articles/working-with-ssh-key-passphrases][Working with SSH key passphrases]]
+
+  - [[https://help.github.com/articles/troubleshooting-ssh][Troubleshooting SSH]]
+
+    - [[https://help.github.com/articles/using-ssh-over-the-https-port][Using SSH over the HTTPS port]]
+    - [[https://help.github.com/articles/recovering-your-ssh-key-passphrase][Recovering your SSH key passphrase]]
+    - [[https://help.github.com/articles/error-permission-denied-publickey][Error: Permission denied (publickey)]]
+    - [[https://help.github.com/articles/error-bad-file-number][Error: Bad file number]]
+    - [[https://help.github.com/articles/error-key-already-in-use][Error: Key already in use]]
+    - [[https://help.github.com/articles/error-permission-to-user-repo-denied-to-other-user][Error: Permission to user/repo denied to other-user]]
+    - [[https://help.github.com/articles/error-permission-to-user-repo-denied-to-user-other-repo][Error: Permission to user/repo denied to user/other-repo]]
+    - [[https://help.github.com/articles/error-agent-admitted-failure-to-sign][Error: Agent admitted failure to sign]]
+    - [[https://help.github.com/articles/error-ssh-add-illegal-option-k][Error: ssh-add: illegal option -- K]]
+    - [[https://help.github.com/articles/error-ssl-certificate-problem-verify-that-the-ca-cert-is-ok][Error: SSL certificate problem, verify that the CA cert is OK]]
+    - [[https://help.github.com/articles/error-we-re-doing-an-ssh-key-audit][Error: We're doing an SSH key audit]]
+
+  - [[https://help.github.com/articles/signing-commits-with-gpg][Signing commits with GPG]]
+
+    - [[https://help.github.com/articles/about-gpg][About GPG]]
+    - [[https://help.github.com/articles/checking-for-existing-gpg-keys][Checking for existing GPG keys]]
+    - [[https://help.github.com/articles/generating-a-new-gpg-key][Generating a new GPG key]]
+    - [[https://help.github.com/articles/adding-a-new-gpg-key-to-your-github-account][Adding a new GPG key to your GitHub account]]
+    - [[https://help.github.com/articles/telling-git-about-your-gpg-key][Telling Git about your GPG key]]
+    - [[https://help.github.com/articles/associating-an-email-with-your-gpg-key][Associating an email with your GPG key]]
+    - [[https://help.github.com/articles/signing-commits-using-gpg][Signing commits using GPG]]
+    - [[https://help.github.com/articles/signing-tags-using-gpg][Signing tags using GPG]]
+
+  - [[https://help.github.com/articles/troubleshooting-gpg][Troubleshooting GPG]]
+
+    - [[https://help.github.com/articles/checking-your-gpg-commit-and-tag-signature-verification-status][Checking your GPG commit and tag signature verification status]]
+    - [[https://help.github.com/articles/updating-an-expired-gpg-key][Updating an expired GPG key]]
+    - [[https://help.github.com/articles/using-a-verified-email-address-in-your-gpg-key][Using a verified email address in your GPG key]]
+
+* [[https://help.github.com/categories/setting-up-and-managing-your-github-profile][Setting up and managing your GitHub profile]]
+
+  - [[https://help.github.com/articles/customizing-your-profile][Customizing your profile]]
+
+    - [[https://help.github.com/articles/about-your-profile][About your profile]]
+    - [[https://help.github.com/articles/setting-your-profile-picture][Setting your profile picture]]
+    - [[https://help.github.com/articles/adding-a-bio-to-your-profile][Adding a bio to your profile]]
+    - [[https://help.github.com/articles/pinning-repositories-to-your-profile][Pinning repositories to your profile]]
+
+  - [[https://help.github.com/articles/managing-contribution-graphs-on-your-profile][Managing contribution graphs on your profile]]
+
+    - [[https://help.github.com/articles/viewing-contributions-on-your-profile][Viewing contributions on your profile]]
+    - [[https://help.github.com/articles/publicizing-or-hiding-your-private-contributions-on-your-profile][Publicizing or hiding your private contributions on your profile]]
+    - [[https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile][Why are my contributions not showing up on my profile?]]
+    - [[https://help.github.com/articles/troubleshooting-commits-on-your-timeline][Troubleshooting commits on your timeline]]
+
+* [[https://help.github.com/categories/writing-on-github][Writing on GitHub]]
+
+  - [[https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github][Getting started with writing and formatting on GitHub]]
+
+    - [[https://help.github.com/articles/about-writing-and-formatting-on-github][About writing and formatting on GitHub]]
+    - [[https://help.github.com/articles/basic-writing-and-formatting-syntax][Basic writing and formatting syntax]]
+
+  - [[https://help.github.com/articles/working-with-advanced-formatting][Working with advanced formatting]]
+
+    - [[https://help.github.com/articles/organizing-information-with-tables][Organizing information with tables]]
+    - [[https://help.github.com/articles/creating-and-highlighting-code-blocks][Creating and highlighting code blocks]]
+    - [[https://help.github.com/articles/autolinked-references-and-urls][Autolinked references and URLs]]
+
+  - [[https://help.github.com/articles/working-with-saved-replies][Working with saved replies]]
+
+    - [[https://help.github.com/articles/about-saved-replies][About saved replies]]
+    - [[https://help.github.com/articles/creating-a-saved-reply][Creating a saved reply]]
+    - [[https://help.github.com/articles/changing-a-saved-reply][Changing a saved reply]]
+    - [[https://help.github.com/articles/deleting-a-saved-reply][Deleting a saved reply]]
+    - [[https://help.github.com/articles/using-saved-replies][Using saved replies]]
+
+* [[https://help.github.com/categories/receiving-notifications-about-activity-on-github][Receiving notifications about activity on GitHub]]
+
+  - [[https://help.github.com/articles/getting-started-with-notifications][Getting started with notifications]]
+
+    - [[https://help.github.com/articles/about-notifications][About notifications]]
+    - [[https://help.github.com/articles/about-web-notifications][About web notifications]]
+    - [[https://help.github.com/articles/about-email-notifications][About email notifications]]
+    - [[https://help.github.com/articles/accessing-your-notifications][Accessing your notifications]]
+    - [[https://help.github.com/articles/about-your-organization-s-news-feed][About your organization's news feed]]
+
+  - [[https://help.github.com/articles/configuring-how-you-receive-notifications][Configuring how you receive notifications]]
+
+    - [[https://help.github.com/articles/choosing-the-delivery-method-for-your-notifications][Choosing the delivery method for your notifications]]
+    - [[https://help.github.com/articles/choosing-the-types-of-notifications-you-receive][Choosing the types of notifications you receive]]
+
+  - [[https://help.github.com/articles/managing-your-notifications][Managing your notifications]]
+
+    - [[https://help.github.com/articles/marking-notifications-as-read][Marking notifications as read]]
+    - [[https://help.github.com/articles/subscribing-to-and-unsubscribing-from-notifications][Subscribing to and unsubscribing from notifications]]
+    - [[https://help.github.com/articles/watching-and-unwatching-repositories][Watching and unwatching repositories]]
+    - [[https://help.github.com/articles/watching-and-unwatching-team-discussions][Watching and unwatching team discussions]]
+    - [[https://help.github.com/articles/listing-the-repositories-you-re-watching][Listing the repositories you're watching]]
+
+* [[https://help.github.com/categories/setting-up-and-managing-organizations-and-teams][Setting up and managing organizations and teams]]
+
+  - [[https://help.github.com/articles/collaborating-with-groups-in-organizations][Collaborating with groups in organizations]]
+
+    - [[https://help.github.com/articles/about-organizations][About organizations]]
+    - [[https://help.github.com/articles/creating-a-new-organization-from-scratch][Creating a new organization from scratch]]
+    - [[https://help.github.com/articles/accessing-your-organization-s-settings][Accessing your organization's settings]]
+
+  - [[https://help.github.com/articles/managing-membership-in-your-organization][Managing membership in your organization]]
+
+    - [[https://help.github.com/articles/inviting-users-to-join-your-organization][Inviting users to join your organization]]
+    - [[https://help.github.com/articles/canceling-or-editing-an-invitation-to-join-your-organization][Canceling or editing an invitation to join your organization]]
+    - [[https://help.github.com/articles/removing-a-member-from-your-organization][Removing a member from your organization]]
+    - [[https://help.github.com/articles/reinstating-a-former-member-of-your-organization][Reinstating a former member of your organization]]
+    - [[https://help.github.com/articles/can-i-create-accounts-for-people-in-my-organization][Can I create accounts for people in my organization?]]
+
+  - [[https://help.github.com/articles/managing-people-s-access-to-your-organization-with-roles][Managing people's access to your organization with roles]]
+
+    - [[https://help.github.com/articles/permission-levels-for-an-organization][Permission levels for an organization]]
+    - [[https://help.github.com/articles/changing-a-person-s-role-to-owner][Changing a person's role to owner]]
+    - [[https://help.github.com/articles/giving-team-maintainer-permissions-to-an-organization-member][Giving "team maintainer" permissions to an organization member]]
+    - [[https://help.github.com/articles/adding-a-billing-manager-to-your-organization][Adding a billing manager to your organization]]
+    - [[https://help.github.com/articles/removing-a-billing-manager-from-your-organization][Removing a billing manager from your organization]]
+
+  - [[https://help.github.com/articles/organizing-members-into-teams][Organizing members into teams]]
+
+    - [[https://help.github.com/articles/about-teams][About teams]]
+    - [[https://help.github.com/articles/creating-a-team][Creating a team]]
+    - [[https://help.github.com/articles/setting-your-team-s-profile-picture][Setting your team's profile picture]]
+    - [[https://help.github.com/articles/adding-organization-members-to-a-team][Adding organization members to a team]]
+    - [[https://help.github.com/articles/renaming-a-team][Renaming a team]]
+    - [[https://help.github.com/articles/changing-team-visibility][Changing team visibility]]
+    - [[https://help.github.com/articles/moving-a-team-in-your-organization-s-hierarchy][Moving a team in your organization's hierarchy]]
+    - [[https://help.github.com/articles/requesting-to-add-a-child-team][Requesting to add a child team]]
+    - [[https://help.github.com/articles/requesting-to-add-or-change-a-parent-team][Requesting to add or change a parent team]]
+    - [[https://help.github.com/articles/removing-organization-members-from-a-team][Removing organization members from a team]]
+    - [[https://help.github.com/articles/disabling-team-discussions-for-your-organization][Disabling team discussions for your organization]]
+    - [[https://help.github.com/articles/deleting-a-team][Deleting a team]]
+
+  - [[https://help.github.com/articles/managing-access-to-your-organization-s-repositories][Managing access to your organization's repositories]]
+
+    - [[https://help.github.com/articles/repository-permission-levels-for-an-organization][Repository permission levels for an organization]]
+    - [[https://help.github.com/articles/managing-an-individual-s-access-to-an-organization-repository][Managing an individual's access to an organization repository]]
+    - [[https://help.github.com/articles/managing-team-access-to-an-organization-repository][Managing team access to an organization repository]]
+    - [[https://help.github.com/articles/adding-outside-collaborators-to-repositories-in-your-organization][Adding outside collaborators to repositories in your organization]]
+    - [[https://help.github.com/articles/removing-an-outside-collaborator-from-an-organization-repository][Removing an outside collaborator from an organization repository]]
+    - [[https://help.github.com/articles/converting-an-organization-member-to-an-outside-collaborator][Converting an organization member to an outside collaborator]]
+    - [[https://help.github.com/articles/converting-an-outside-collaborator-to-an-organization-member][Converting an outside collaborator to an organization member]]
+    - [[https://help.github.com/articles/reinstating-a-former-outside-collaborator-s-access-to-your-organization][Reinstating a former outside collaborator's access to your organization]]
+
+  - [[https://help.github.com/articles/managing-access-to-your-organization-s-project-boards][Managing access to your organization's project boards]]
+
+    - [[https://help.github.com/articles/project-board-permissions-for-an-organization][Project board permissions for an organization]]
+    - [[https://help.github.com/articles/managing-access-to-a-project-board-for-organization-members][Managing access to a project board for organization members]]
+    - [[https://help.github.com/articles/managing-team-access-to-an-organization-project-board][Managing team access to an organization project board]]
+    - [[https://help.github.com/articles/managing-an-individual-s-access-to-an-organization-project-board][Managing an individual's access to an organization project board]]
+    - [[https://help.github.com/articles/adding-an-outside-collaborator-to-a-project-board-in-your-organization][Adding an outside collaborator to a project board in your organization]]
+    - [[https://help.github.com/articles/removing-an-outside-collaborator-from-an-organization-project-board][Removing an outside collaborator from an organization project board]]
+    - [[https://help.github.com/articles/changing-project-board-visibility][Changing project board visibility]]
+
+  - [[https://help.github.com/articles/managing-organization-settings][Managing organization settings]]
+
+    - [[https://help.github.com/articles/renaming-an-organization][Renaming an organization]]
+    - [[https://help.github.com/articles/transferring-organization-ownership][Transferring organization ownership]]
+    - [[https://help.github.com/articles/allowing-people-to-fork-private-repositories-in-your-organization][Allowing people to fork private repositories in your organization]]
+    - [[https://help.github.com/articles/deleting-an-organization-account][Deleting an organization account]]
+    - [[https://help.github.com/articles/converting-an-organization-into-a-user][Converting an organization into a user]]
+    - [[https://help.github.com/articles/integrating-jira-with-your-organization-s-projects][Integrating JIRA with your organization's projects]]
+
+  - [[https://help.github.com/articles/migrating-your-organization-to-improved-organization-permissions][Migrating your organization to improved organization permissions]]
+
+    - [[https://help.github.com/articles/converting-your-previous-owners-team-to-the-improved-organization-permissions][Converting your previous Owners team to the improved organization permissions]]
+    - [[https://help.github.com/articles/converting-your-previous-admin-team-to-the-improved-organization-permissions][Converting your previous admin team to the improved organization permissions]]
+    - [[https://help.github.com/articles/migrating-your-previous-admin-teams-to-the-improved-organization-permissions][Migrating your previous admin teams to the improved organization permissions]]
+
+  - [[https://help.github.com/articles/restricting-access-to-your-organization-s-data][Restricting access to your organization's data]]
+
+    - [[https://help.github.com/articles/about-oauth-app-access-restrictions][About OAuth App access restrictions]]
+    - [[https://help.github.com/articles/enabling-oauth-app-access-restrictions-for-your-organization][Enabling OAuth App access restrictions for your organization]]
+    - [[https://help.github.com/articles/disabling-oauth-app-access-restrictions-for-your-organization][Disabling OAuth App access restrictions for your organization]]
+    - [[https://help.github.com/articles/approving-oauth-apps-for-your-organization][Approving OAuth Apps for your organization]]
+    - [[https://help.github.com/articles/denying-access-to-a-previously-approved-oauth-app-for-your-organization][Denying access to a previously approved OAuth App for your organization]]
+
+  - [[https://help.github.com/articles/keeping-your-organization-secure][Keeping your organization secure]]
+
+    - [[https://help.github.com/articles/viewing-whether-users-in-your-organization-have-2fa-enabled][Viewing whether users in your organization have 2FA enabled]]
+    - [[https://help.github.com/articles/preparing-to-require-two-factor-authentication-in-your-organization][Preparing to require two-factor authentication in your organization]]
+    - [[https://help.github.com/articles/requiring-two-factor-authentication-in-your-organization][Requiring two-factor authentication in your organization]]
+    - [[https://help.github.com/articles/reviewing-the-audit-log-for-your-organization][Reviewing the audit log for your organization]]
+    - [[https://help.github.com/articles/reviewing-your-organization-s-installed-integrations][Reviewing your organization's installed integrations]]
+
+  - [[https://help.github.com/articles/managing-member-identity-and-access-in-your-organization-with-saml-single-sign-on][Managing member identity and access in your organization with SAML single sign-on]]
+
+    - [[https://help.github.com/articles/about-identity-and-access-management-with-saml-single-sign-on][About identity and access management with SAML single sign-on]]
+    - [[https://help.github.com/articles/about-scim][About SCIM]]
+    - [[https://help.github.com/articles/connecting-your-identity-provider-to-your-organization][Connecting your identity provider to your organization]]
+    - [[https://help.github.com/articles/enabling-and-testing-saml-single-sign-on-for-your-organization][Enabling and testing SAML single sign-on for your organization]]
+    - [[https://help.github.com/articles/preparing-to-enforce-saml-single-sign-on-in-your-organization][Preparing to enforce SAML single sign-on in your organization]]
+    - [[https://help.github.com/articles/enforcing-saml-single-sign-on-for-your-organization][Enforcing SAML single sign-on for your organization]]
+    - [[https://help.github.com/articles/downloading-your-organization-s-saml-single-sign-on-recovery-codes][Downloading your organization's SAML single sign-on recovery codes]]
+    - [[https://help.github.com/articles/accessing-your-organization-if-your-identity-provider-is-unavailable][Accessing your organization if your identity provider is unavailable]]
+
+  - [[https://help.github.com/articles/granting-access-to-your-organization-with-saml-single-sign-on][Granting access to your organization with SAML single sign-on]]
+
+    - [[https://help.github.com/articles/managing-bots-and-service-accounts-with-saml-single-sign-on][Managing bots and service accounts with SAML single sign-on]]
+    - [[https://help.github.com/articles/viewing-and-revoking-organization-members-authorized-access-tokens][Viewing and revoking organization members' authorized access tokens]]
+    - [[https://help.github.com/articles/about-two-factor-authentication-and-saml-single-sign-on][About two-factor authentication and SAML single sign-on]]
+
+  - [[https://help.github.com/articles/encouraging-positive-contributions-in-your-organization][Encouraging positive contributions in your organization]]
+
+    - [[https://help.github.com/articles/limiting-interactions-in-your-organization][Limiting interactions in your organization]]
+    - [[https://help.github.com/articles/blocking-a-user-from-your-organization][Blocking a user from your organization]]
+    - [[https://help.github.com/articles/viewing-users-who-are-blocked-from-your-organization][Viewing users who are blocked from your organization]]
+    - [[https://help.github.com/articles/unblocking-a-user-from-your-organization][Unblocking a user from your organization]]
+
+  - [[https://help.github.com/articles/upgrading-your-organization-s-billing-plan][Upgrading your organization's billing plan]]
+
+    - [[https://help.github.com/articles/organization-billing-plans][Organization billing plans]]
+    - [[https://help.github.com/articles/about-per-user-pricing][About per-user pricing]]
+    - [[https://help.github.com/articles/upgrading-your-organization-account][Upgrading your organization account]]
+    - [[https://help.github.com/articles/switching-from-per-repository-to-per-user-pricing][Switching from per-repository to per-user pricing]]
+
+  - [[https://help.github.com/articles/managing-your-organization-s-paid-seats][Managing your organization's paid seats]]
+
+    - [[https://help.github.com/articles/adding-seats-to-your-organization][Adding seats to your organization]]
+    - [[https://help.github.com/articles/removing-paid-seats-from-your-organization][Removing paid seats from your organization]]
+
+  - [[https://help.github.com/articles/paying-for-organization-accounts][Paying for organization accounts]]
+
+    - [[https://help.github.com/articles/updating-your-organization-s-payment-method][Updating your organization's payment method]]
+    - [[https://help.github.com/articles/switching-payment-methods-for-your-organization][Switching payment methods for your organization]]
+    - [[https://help.github.com/articles/removing-a-payment-method-associated-with-your-organization][Removing a payment method associated with your organization]]
+    - [[https://help.github.com/articles/switching-between-monthly-and-yearly-billing-for-your-organization][Switching between monthly and yearly billing for your organization]]
+    - [[https://help.github.com/articles/redeeming-a-coupon-for-organizations][Redeeming a coupon for organizations]]
+    - [[https://help.github.com/articles/unlocking-a-locked-organization-account][Unlocking a locked organization account]]
+    - [[https://help.github.com/articles/discounted-organization-accounts][Discounted organization accounts]]
+
+  - [[https://help.github.com/articles/viewing-and-managing-your-organization-s-billing-information][Viewing and managing your organization's billing information]]
+
+    - [[https://help.github.com/articles/setting-your-organization-s-billing-email][Setting your organization's billing email]]
+    - [[https://help.github.com/articles/finding-your-organization-s-next-billing-date][Finding your organization's next billing date]]
+    - [[https://help.github.com/articles/downloading-receipts-for-organizations][Downloading receipts for organizations]]
+    - [[https://help.github.com/articles/adding-information-to-your-organization-s-receipts][Adding information to your organization's receipts]]
+    - [[https://help.github.com/articles/viewing-and-managing-pending-changes-to-your-organization-s-billing-plan][Viewing and managing pending changes to your organization's billing plan]]
+
+  - [[https://help.github.com/articles/downgrading-your-organization-s-billing-plan][Downgrading your organization's billing plan]]
+
+    - [[https://help.github.com/articles/downgrading-your-organization-to-free][Downgrading your organization to free]]
+    - [[https://help.github.com/articles/downgrading-your-organization-from-github-business-cloud-to-the-team-plan][Downgrading your organization from GitHub Business Cloud to the Team plan]]
+
+  - [[https://help.github.com/articles/managing-your-organization-s-apps][Managing your organization's apps]]
+
+    - [[https://help.github.com/articles/upgrading-an-app-for-your-organization][Upgrading an app for your organization]]
+    - [[https://help.github.com/articles/downgrading-an-app-for-your-organization][Downgrading an app for your organization]]
+    - [[https://help.github.com/articles/canceling-an-app-for-your-organization][Canceling an app for your organization]]
+
+  - [[https://help.github.com/articles/managing-large-file-storage-and-bandwidth-for-your-organization][Managing large file storage and bandwidth for your organization]]
+
+    - [[https://help.github.com/articles/purchasing-additional-storage-and-bandwidth-for-an-organization][Purchasing additional storage and bandwidth for an organization]]
+    - [[https://help.github.com/articles/downgrading-storage-and-bandwidth-for-an-organization][Downgrading storage and bandwidth for an organization]]
+
+  - [[https://help.github.com/articles/setting-up-and-paying-for-organizations-for-procurement-companies][Setting up and paying for organizations for procurement companies]]
+
+    - [[https://help.github.com/articles/about-organizations-for-procurement-companies][About organizations for procurement companies]]
+    - [[https://help.github.com/articles/creating-and-paying-for-an-organization-on-behalf-of-a-client][Creating and paying for an organization on behalf of a client]]
+    - [[https://help.github.com/articles/upgrading-or-downgrading-your-client-s-paid-organization][Upgrading or downgrading your client's paid organization]]
+    - [[https://help.github.com/articles/renewing-your-client-s-paid-organization][Renewing your client's paid organization]]
+
+* [[https://help.github.com/categories/creating-cloning-and-archiving-repositories][Creating, cloning, and archiving repositories]]
+
+  - [[https://help.github.com/articles/creating-a-repository-on-github][Creating a repository on GitHub]]
+
+    - [[https://help.github.com/articles/about-repositories][About repositories]]
+    - [[https://help.github.com/articles/creating-a-new-repository][Creating a new repository]]
+    - [[https://help.github.com/articles/about-readmes][About READMEs]]
+    - [[https://help.github.com/articles/about-codeowners][About CODEOWNERS]]
+    - [[https://help.github.com/articles/about-repository-languages][About repository languages]]
+    - [[https://help.github.com/articles/licensing-a-repository][Licensing a repository]]
+    - [[https://help.github.com/articles/creating-an-issues-only-repository][Creating an issues-only repository]]
+    - [[https://help.github.com/articles/limits-for-viewing-content-and-diffs-in-a-repository][Limits for viewing content and diffs in a repository]]
+    - [[https://help.github.com/articles/duplicating-a-repository][Duplicating a repository]]
+
+  - [[https://help.github.com/articles/cloning-a-repository-from-github][Cloning a repository from GitHub]]
+
+    - [[https://help.github.com/articles/cloning-a-repository][Cloning a repository]]
+    - [[https://help.github.com/articles/https-cloning-errors][HTTPS cloning errors]]
+    - [[https://help.github.com/articles/error-repository-not-found][Error: Repository not found]]
+    - [[https://help.github.com/articles/error-remote-head-refers-to-nonexistent-ref-unable-to-checkout][Error: Remote HEAD refers to nonexistent ref, unable to checkout]]
+
+  - [[https://help.github.com/articles/archiving-a-github-repository][Archiving a GitHub repository]]
+
+    - [[https://help.github.com/articles/about-archiving-repositories][About archiving repositories]]
+    - [[https://help.github.com/articles/archiving-repositories][Archiving repositories]]
+    - [[https://help.github.com/articles/about-archiving-content-and-data-on-github][About archiving content and data on GitHub]]
+    - [[https://help.github.com/articles/referencing-and-citing-content][Referencing and citing content]]
+    - [[https://help.github.com/articles/backing-up-a-repository][Backing up a repository]]
+
+* [[https://help.github.com/categories/managing-files-in-a-repository][Managing files in a repository]]
+
+  - [[https://help.github.com/articles/managing-files-on-github][Managing files on GitHub]]
+
+    - [[https://help.github.com/articles/creating-new-files][Creating new files]]
+    - [[https://help.github.com/articles/adding-a-file-to-a-repository][Adding a file to a repository]]
+    - [[https://help.github.com/articles/initializing-an-empty-repository-with-a-readme][Initializing an empty repository with a README]]
+    - [[https://help.github.com/articles/renaming-a-file][Renaming a file]]
+    - [[https://help.github.com/articles/moving-a-file-to-a-new-location][Moving a file to a new location]]
+    - [[https://help.github.com/articles/editing-files-in-your-repository][Editing files in your repository]]
+    - [[https://help.github.com/articles/editing-files-in-another-user-s-repository][Editing files in another user's repository]]
+    - [[https://help.github.com/articles/tracking-changes-in-a-file][Tracking changes in a file]]
+    - [[https://help.github.com/articles/deleting-files][Deleting files]]
+    - [[https://help.github.com/articles/getting-permanent-links-to-files][Getting permanent links to files]]
+
+  - [[https://help.github.com/articles/managing-files-using-the-command-line][Managing files using the command line]]
+
+    - [[https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line][Adding a file to a repository using the command line]]
+    - [[https://help.github.com/articles/renaming-a-file-using-the-command-line][Renaming a file using the command line]]
+    - [[https://help.github.com/articles/moving-a-file-to-a-new-location-using-the-command-line][Moving a file to a new location using the command line]]
+
+* [[https://help.github.com/categories/working-with-non-code-files][Working with non-code files]]
+
+  - [[https://help.github.com/articles/rendering-and-diffing-images][Rendering and diffing images]]
+  - [[https://help.github.com/articles/mapping-geojson-files-on-github][Mapping geoJSON files on GitHub]]
+  - [[https://help.github.com/articles/working-with-jupyter-notebook-files-on-github][Working with Jupyter Notebook files on GitHub]]
+  - [[https://help.github.com/articles/3d-file-viewer][3D File Viewer]]
+  - [[https://help.github.com/articles/rendering-csv-and-tsv-data][Rendering CSV and TSV data]]
+  - [[https://help.github.com/articles/rendering-pdf-documents][Rendering PDF documents]]
+  - [[https://help.github.com/articles/rendering-differences-in-prose-documents][Rendering differences in prose documents]]
+
+* [[https://help.github.com/categories/managing-large-files][Managing Large Files]]
+
+  - [[https://help.github.com/articles/working-with-large-files][Working with large files]]
+
+    - [[https://help.github.com/articles/conditions-for-large-files][Conditions for large files]]
+    - [[https://help.github.com/articles/removing-files-from-a-repository-s-history][Removing files from a repository's history]]
+    - [[https://help.github.com/articles/distributing-large-binaries][Distributing large binaries]]
+    - [[https://help.github.com/articles/what-is-my-disk-quota][What is my disk quota?]]
+
+  - [[https://help.github.com/articles/versioning-large-files][Versioning large files]]
+
+    - [[https://help.github.com/articles/about-git-large-file-storage][About Git Large File Storage]]
+    - [[https://help.github.com/articles/installing-git-large-file-storage][Installing Git Large File Storage]]
+    - [[https://help.github.com/articles/configuring-git-large-file-storage][Configuring Git Large File Storage]]
+    - [[https://help.github.com/articles/collaboration-with-git-large-file-storage][Collaboration with Git Large File Storage]]
+    - [[https://help.github.com/articles/moving-a-file-in-your-repository-to-git-large-file-storage][Moving a file in your repository to Git Large File Storage]]
+    - [[https://help.github.com/articles/removing-files-from-git-large-file-storage][Removing files from Git Large File Storage]]
+
+  - [[https://help.github.com/articles/managing-storage-and-bandwidth-usage][Managing storage and bandwidth usage]]
+
+    - [[https://help.github.com/articles/about-storage-and-bandwidth-usage][About storage and bandwidth usage]]
+    - [[https://help.github.com/articles/viewing-storage-and-bandwidth-usage-for-a-personal-account][Viewing storage and bandwidth usage for a personal account]]
+    - [[https://help.github.com/articles/viewing-storage-and-bandwidth-usage-for-an-organization][Viewing storage and bandwidth usage for an organization]]
+
+* [[https://help.github.com/categories/commits][Commits]]
+
+  - [[https://help.github.com/articles/creating-a-commit-with-multiple-authors][Creating a commit with multiple authors]]
+  - [[https://help.github.com/articles/changing-a-commit-message][Changing a commit message]]
+  - [[https://help.github.com/articles/commit-exists-on-github-but-not-in-my-local-clone][Commit exists on GitHub but not in my local clone]]
+  - [[https://help.github.com/articles/commit-branch-and-tag-labels][Commit branch and tag labels]]
+  - [[https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user][Why are my commits linked to the wrong user?]]
+  - [[https://help.github.com/articles/why-are-my-commits-in-the-wrong-order][Why are my commits in the wrong order?]]
+  - [[https://help.github.com/articles/comparing-commits-across-time][Comparing commits across time]]
+  - [[https://help.github.com/articles/differences-between-commit-views][Differences between commit views]]
+
+* [[https://help.github.com/categories/searching-for-information-on-github][Searching for information on GitHub]]
+
+  - [[https://help.github.com/articles/getting-started-with-searching-on-github][Getting started with searching on GitHub]]
+
+    - [[https://help.github.com/articles/about-searching-on-github][About searching on GitHub]]
+    - [[https://help.github.com/articles/understanding-the-search-syntax][Understanding the search syntax]]
+    - [[https://help.github.com/articles/troubleshooting-search-queries][Troubleshooting search queries]]
+    - [[https://help.github.com/articles/sorting-search-results][Sorting search results]]
+
+  - [[https://help.github.com/articles/searching-on-github][Searching on GitHub]]
+
+    - [[https://help.github.com/articles/finding-files-on-github][Finding files on GitHub]]
+    - [[https://help.github.com/articles/searching-repositories][Searching repositories]]
+    - [[https://help.github.com/articles/searching-topics][Searching topics]]
+    - [[https://help.github.com/articles/searching-code][Searching code]]
+    - [[https://help.github.com/articles/searching-commits][Searching commits]]
+    - [[https://help.github.com/articles/searching-issues-and-pull-requests][Searching issues and pull requests]]
+    - [[https://help.github.com/articles/searching-users][Searching users]]
+    - [[https://help.github.com/articles/searching-wikis][Searching wikis]]
+    - [[https://help.github.com/articles/searching-in-forks][Searching in forks]]
+
+* [[https://help.github.com/categories/keyboard-shortcuts][Keyboard Shortcuts]]
+
+  - [[https://help.github.com/articles/using-keyboard-shortcuts][Using keyboard shortcuts]]
+
+* [[https://help.github.com/categories/collaborating-with-issues-and-pull-requests][Collaborating with issues and pull requests]]
+
+  - [[https://help.github.com/articles/about-pull-requests][About pull requests]]
+  - [[https://help.github.com/articles/github-flow][GitHub flow]]
+  - [[https://help.github.com/articles/about-collaborative-development-models][About collaborative development models]]
+  - [[https://help.github.com/articles/about-conversations-on-github][About conversations on GitHub]]
+  - [[https://help.github.com/articles/working-with-forks][Working with forks]]
+
+    - [[https://help.github.com/articles/about-forks][About forks]]
+    - [[https://help.github.com/articles/configuring-a-remote-for-a-fork][Configuring a remote for a fork]]
+    - [[https://help.github.com/articles/syncing-a-fork][Syncing a fork]]
+    - [[https://help.github.com/articles/merging-an-upstream-repository-into-your-fork][Merging an upstream repository into your fork]]
+    - [[https://help.github.com/articles/allowing-changes-to-a-pull-request-branch-created-from-a-fork][Allowing changes to a pull request branch created from a fork]]
+    - [[https://help.github.com/articles/what-happens-to-forks-when-a-repository-is-deleted-or-changes-visibility][What happens to forks when a repository is deleted or changes visibility?]]
+
+  - [[https://help.github.com/articles/collaborating-on-repositories-with-code-quality-features-enabled][Collaborating on repositories with code quality features enabled]]
+
+    - [[https://help.github.com/articles/about-status-checks][About status checks]]
+    - [[https://help.github.com/articles/working-with-protected-branches][Working with protected branches]]
+
+  - [[https://help.github.com/articles/proposing-changes-to-your-work-with-pull-requests][Proposing changes to your work with pull requests]]
+
+    - [[https://help.github.com/articles/about-branches][About branches]]
+    - [[https://help.github.com/articles/creating-and-deleting-branches-within-your-repository][Creating and deleting branches within your repository]]
+    - [[https://help.github.com/articles/about-comparing-branches-in-pull-requests][About comparing branches in pull requests]]
+    - [[https://help.github.com/articles/creating-a-pull-request][Creating a pull request]]
+    - [[https://help.github.com/articles/creating-a-pull-request-from-a-fork][Creating a pull request from a fork]]
+    - [[https://help.github.com/articles/requesting-a-pull-request-review][Requesting a pull request review]]
+    - [[https://help.github.com/articles/changing-the-base-branch-of-a-pull-request][Changing the base branch of a pull request]]
+    - [[https://help.github.com/articles/committing-changes-to-a-pull-request-branch-created-from-a-fork][Committing changes to a pull request branch created from a fork]]
+
+  - [[https://help.github.com/articles/addressing-merge-conflicts][Addressing merge conflicts]]
+
+    - [[https://help.github.com/articles/about-merge-conflicts][About merge conflicts]]
+    - [[https://help.github.com/articles/resolving-a-merge-conflict-on-github][Resolving a merge conflict on GitHub]]
+    - [[https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line][Resolving a merge conflict using the command line]]
+
+  - [[https://help.github.com/articles/reviewing-changes-in-pull-requests][Reviewing changes in pull requests]]
+
+    - [[https://help.github.com/articles/about-pull-request-reviews][About pull request reviews]]
+    - [[https://help.github.com/articles/reviewing-proposed-changes-in-a-pull-request][Reviewing proposed changes in a pull request]]
+    - [[https://help.github.com/articles/finding-changed-methods-and-functions-in-a-pull-request][Finding changed methods and functions in a pull request]]
+    - [[https://help.github.com/articles/commenting-on-a-pull-request][Commenting on a pull request]]
+    - [[https://help.github.com/articles/viewing-a-pull-request-review][Viewing a pull request review]]
+    - [[https://help.github.com/articles/approving-a-pull-request-with-required-reviews][Approving a pull request with required reviews]]
+    - [[https://help.github.com/articles/dismissing-a-pull-request-review][Dismissing a pull request review]]
+    - [[https://help.github.com/articles/checking-out-pull-requests-locally][Checking out pull requests locally]]
+
+  - [[https://help.github.com/articles/incorporating-changes-from-a-pull-request][Incorporating changes from a pull request]]
+
+    - [[https://help.github.com/articles/about-pull-request-merges][About pull request merges]]
+    - [[https://help.github.com/articles/merging-a-pull-request][Merging a pull request]]
+    - [[https://help.github.com/articles/closing-a-pull-request][Closing a pull request]]
+    - [[https://help.github.com/articles/reverting-a-pull-request][Reverting a pull request]]
+
+* [[https://help.github.com/categories/building-a-strong-community][Building a strong community]]
+
+  - [[https://help.github.com/articles/setting-up-your-project-for-healthy-contributions][Setting up your project for healthy contributions]]
+
+    - [[https://help.github.com/articles/about-community-profiles-for-public-repositories][About community profiles for public repositories]]
+    - [[https://help.github.com/articles/accessing-a-project-s-community-profile][Accessing a project's community profile]]
+    - [[https://help.github.com/articles/setting-guidelines-for-repository-contributors][Setting guidelines for repository contributors]]
+    - [[https://help.github.com/articles/adding-a-code-of-conduct-to-your-project][Adding a code of conduct to your project]]
+    - [[https://help.github.com/articles/adding-support-resources-to-your-project][Adding support resources to your project]]
+    - [[https://help.github.com/articles/adding-a-license-to-a-repository][Adding a license to a repository]]
+    - [[https://help.github.com/articles/helping-new-contributors-find-your-project-with-labels][Helping new contributors find your project with labels]]
+
+  - [[https://help.github.com/articles/using-templates-to-encourage-high-quality-issues-and-pull-requests-in-your-repository][Using templates to encourage high-quality issues and pull requests in your repository]]
+
+    - [[https://help.github.com/articles/about-issue-and-pull-request-templates][About issue and pull request templates]]
+    - [[https://help.github.com/articles/creating-issue-templates-for-your-repository][Creating issue templates for your repository]]
+    - [[https://help.github.com/articles/creating-a-pull-request-template-for-your-repository][Creating a pull request template for your repository]]
+    - [[https://help.github.com/articles/manually-creating-a-single-issue-template-for-your-repository][Manually creating a single issue template for your repository]]
+
+  - [[https://help.github.com/articles/collaborating-with-your-team][Collaborating with your team]]
+
+    - [[https://help.github.com/articles/about-team-discussions][About team discussions]]
+    - [[https://help.github.com/articles/creating-a-team-discussion][Creating a team discussion]]
+    - [[https://help.github.com/articles/editing-or-deleting-a-team-discussion][Editing or deleting a team discussion]]
+    - [[https://help.github.com/articles/pinning-a-team-discussion][Pinning a team discussion]]
+
+  - [[https://help.github.com/articles/moderating-comments-and-conversations][Moderating comments and conversations]]
+
+    - [[https://help.github.com/articles/managing-disruptive-comments][Managing disruptive comments]]
+    - [[https://help.github.com/articles/locking-conversations][Locking conversations]]
+    - [[https://help.github.com/articles/tracking-changes-in-a-comment][Tracking changes in a comment]]
+
+  - [[https://help.github.com/articles/encouraging-positive-contributions-to-your-project][Encouraging positive contributions to your project]]
+
+    - [[https://help.github.com/articles/limiting-interactions-in-your-repository][Limiting interactions in your repository]]
+    - [[https://help.github.com/articles/blocking-a-user-from-your-personal-account][Blocking a user from your personal account]]
+    - [[https://help.github.com/articles/viewing-users-you-ve-blocked-from-your-personal-account][Viewing users you've blocked from your personal account]]
+    - [[https://help.github.com/articles/unblocking-a-user-from-your-personal-account][Unblocking a user from your personal account]]
+    - [[https://help.github.com/articles/reporting-abuse-or-spam][Reporting abuse or spam]]
+
+* [[https://help.github.com/categories/managing-repository-collaborators][Managing Repository Collaborators]]
+
+  - [[https://help.github.com/articles/inviting-collaborators-to-a-personal-repository][Inviting collaborators to a personal repository]]
+  - [[https://help.github.com/articles/removing-a-collaborator-from-a-personal-repository][Removing a collaborator from a personal repository]]
+  - [[https://help.github.com/articles/removing-yourself-from-a-collaborator-s-repository][Removing yourself from a collaborator's repository]]
+
+* [[https://help.github.com/categories/managing-remotes][Managing Remotes]]
+
+  - [[https://help.github.com/articles/about-remote-repositories][About remote repositories]]
+  - [[https://help.github.com/articles/adding-a-remote][Adding a remote]]
+  - [[https://help.github.com/articles/changing-a-remote-s-url][Changing a remote's URL]]
+  - [[https://help.github.com/articles/renaming-a-remote][Renaming a remote]]
+  - [[https://help.github.com/articles/removing-a-remote][Removing a remote]]
+  - [[https://help.github.com/articles/which-remote-url-should-i-use][Which remote URL should I use?]]
+  - [[https://help.github.com/articles/why-is-git-always-asking-for-my-password][Why is Git always asking for my password?]]
+  - [[https://help.github.com/articles/dealing-with-non-fast-forward-errors][Dealing with non-fast-forward errors]]
+  - [[https://help.github.com/articles/fetching-a-remote][Fetching a remote]]
+  - [[https://help.github.com/articles/pushing-to-a-remote][Pushing to a remote]]
+  - [[https://help.github.com/articles/updating-credentials-from-the-osx-keychain][Updating credentials from the OSX Keychain]]
+  - [[https://help.github.com/articles/caching-your-github-password-in-git][Caching your GitHub password in Git]]
+
+* [[https://help.github.com/categories/releases][Releases]]
+
+  - [[https://help.github.com/articles/about-releases][About Releases]]
+  - [[https://help.github.com/articles/creating-releases][Creating Releases]]
+  - [[https://help.github.com/articles/working-with-tags][Working with Tags]]
+  - [[https://help.github.com/articles/editing-and-deleting-releases][Editing and deleting releases]]
+  - [[https://help.github.com/articles/getting-the-download-count-for-your-releases][Getting the download count for your releases]]
+  - [[https://help.github.com/articles/linking-to-releases][Linking to releases]]
+
+* [[https://help.github.com/categories/visualizing-repository-data-with-graphs][Visualizing repository data with graphs]]
+
+  - [[https://help.github.com/articles/accessing-basic-repository-data][Accessing basic repository data]]
+
+    - [[https://help.github.com/articles/about-repository-graphs][About repository graphs]]
+    - [[https://help.github.com/articles/viewing-a-summary-of-repository-activity][Viewing a summary of repository activity]]
+    - [[https://help.github.com/articles/viewing-contribution-activity-in-a-repository][Viewing contribution activity in a repository]]
+    - [[https://help.github.com/articles/viewing-traffic-to-a-repository][Viewing traffic to a repository]]
+
+  - [[https://help.github.com/articles/analyzing-changes-to-a-repository-s-content][Analyzing changes to a repository's content]]
+
+    - [[https://help.github.com/articles/visualizing-commits-in-a-repository][Visualizing commits in a repository]]
+    - [[https://help.github.com/articles/visualizing-additions-and-deletions-to-content-in-a-repository][Visualizing additions and deletions to content in a repository]]
+
+  - [[https://help.github.com/articles/understanding-connections-between-repositories][Understanding connections between repositories]]
+
+    - [[https://help.github.com/articles/viewing-a-repository-s-network][Viewing a repository's network]]
+    - [[https://help.github.com/articles/listing-the-forks-of-a-repository][Listing the forks of a repository]]
+    - [[https://help.github.com/articles/listing-the-projects-that-depend-on-a-repository][Listing the projects that depend on a repository]]
+    - [[https://help.github.com/articles/listing-the-packages-that-a-repository-depends-on][Listing the packages that a repository depends on]]
+
+* [[https://help.github.com/categories/importing-your-projects-to-github][Importing your projects to GitHub]]
+
+  - [[https://help.github.com/articles/importing-source-code-to-github][Importing source code to GitHub]]
+
+    - [[https://help.github.com/articles/about-github-importer][About GitHub Importer]]
+    - [[https://help.github.com/articles/importing-a-repository-with-github-importer][Importing a repository with GitHub Importer]]
+    - [[https://help.github.com/articles/updating-commit-author-attribution-with-github-importer][Updating commit author attribution with GitHub Importer]]
+    - [[https://help.github.com/articles/importing-a-git-repository-using-the-command-line][Importing a Git repository using the command line]]
+    - [[https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line][Adding an existing project to GitHub using the command line]]
+    - [[https://help.github.com/articles/source-code-migration-tools][Source code migration tools]]
+
+  - [[https://help.github.com/articles/working-with-subversion-on-github][Working with Subversion on GitHub]]
+
+    - [[https://help.github.com/articles/what-are-the-differences-between-subversion-and-git][What are the differences between Subversion and Git?]]
+    - [[https://help.github.com/articles/support-for-subversion-clients][Support for Subversion clients]]
+    - [[https://help.github.com/articles/subversion-properties-supported-by-github][Subversion properties supported by GitHub]]
+
+* [[https://help.github.com/categories/advanced-git][Advanced Git]]
+
+  - [[https://help.github.com/articles/about-git-rebase][About Git rebase]]
+  - [[https://help.github.com/articles/using-git-rebase-on-the-command-line][Using Git rebase on the command line]]
+  - [[https://help.github.com/articles/resolving-merge-conflicts-after-a-git-rebase][Resolving merge conflicts after a Git rebase]]
+  - [[https://help.github.com/articles/changing-author-info][Changing author info]]
+  - [[https://help.github.com/articles/splitting-a-subfolder-out-into-a-new-repository][Splitting a subfolder out into a new repository]]
+  - [[https://help.github.com/articles/about-git-subtree-merges][About Git subtree merges]]
+
+* [[https://help.github.com/categories/managing-your-work-on-github][Managing your work on GitHub]]
+
+  - [[https://help.github.com/articles/managing-your-work-with-issues][Managing your work with issues]]
+
+    - [[https://help.github.com/articles/about-issues][About issues]]
+    - [[https://help.github.com/articles/creating-an-issue][Creating an issue]]
+    - [[https://help.github.com/articles/opening-an-issue-from-code][Opening an issue from code]]
+    - [[https://help.github.com/articles/creating-a-permanent-link-to-a-code-snippet][Creating a permanent link to a code snippet]]
+    - [[https://help.github.com/articles/about-task-lists][About task lists]]
+    - [[https://help.github.com/articles/about-automation-for-issues-and-pull-requests-with-query-parameters][About automation for issues and pull requests with query parameters]]
+    - [[https://help.github.com/articles/file-attachments-on-issues-and-pull-requests][File attachments on issues and pull requests]]
+    - [[https://help.github.com/articles/assigning-issues-and-pull-requests-to-other-github-users][Assigning issues and pull requests to other GitHub users]]
+    - [[https://help.github.com/articles/viewing-all-of-your-issues-and-pull-requests][Viewing all of your issues and pull requests]]
+    - [[https://help.github.com/articles/disabling-issues][Disabling issues]]
+    - [[https://help.github.com/articles/closing-issues-using-keywords][Closing issues using keywords]]
+    - [[https://help.github.com/articles/about-duplicate-issues-and-pull-requests][About duplicate issues and pull requests]]
+
+  - [[https://help.github.com/articles/labeling-issues-and-pull-requests][Labeling issues and pull requests]]
+
+    - [[https://help.github.com/articles/about-labels][About labels]]
+    - [[https://help.github.com/articles/creating-a-label][Creating a label]]
+    - [[https://help.github.com/articles/applying-labels-to-issues-and-pull-requests][Applying labels to issues and pull requests]]
+    - [[https://help.github.com/articles/editing-a-label][Editing a label]]
+    - [[https://help.github.com/articles/deleting-a-label][Deleting a label]]
+
+  - [[https://help.github.com/articles/managing-project-boards-in-your-repository-or-organization][Managing project boards in your repository or organization]]
+
+    - [[https://help.github.com/articles/about-project-boards][About project boards]]
+    - [[https://help.github.com/articles/creating-a-project-board][Creating a project board]]
+    - [[https://help.github.com/articles/editing-a-project-board][Editing a project board]]
+    - [[https://help.github.com/articles/about-automation-for-project-boards][About automation for project boards]]
+    - [[https://help.github.com/articles/configuring-automation-for-project-boards][Configuring automation for project boards]]
+    - [[https://help.github.com/articles/copying-a-project-board][Copying a project board]]
+    - [[https://help.github.com/articles/closing-a-project-board][Closing a project board]]
+    - [[https://help.github.com/articles/reopening-a-closed-project-board][Reopening a closed project board]]
+    - [[https://help.github.com/articles/deleting-a-project-board][Deleting a project board]]
+    - [[https://help.github.com/articles/disabling-project-boards-in-a-repository][Disabling project boards in a repository]]
+    - [[https://help.github.com/articles/disabling-project-boards-in-your-organization][Disabling project boards in your organization]]
+
+  - [[https://help.github.com/articles/tracking-the-progress-of-your-work-with-project-boards][Tracking the progress of your work with project boards]]
+
+    - [[https://help.github.com/articles/adding-issues-and-pull-requests-to-a-project-board][Adding issues and pull requests to a project board]]
+    - [[https://help.github.com/articles/adding-notes-to-a-project-board][Adding notes to a project board]]
+    - [[https://help.github.com/articles/tracking-progress-on-your-project-board][Tracking progress on your project board]]
+    - [[https://help.github.com/articles/filtering-cards-on-a-project-board][Filtering cards on a project board]]
+    - [[https://help.github.com/articles/archiving-cards-on-a-project-board][Archiving cards on a project board]]
+
+  - [[https://help.github.com/articles/tracking-the-progress-of-your-work-with-milestones][Tracking the progress of your work with milestones]]
+
+    - [[https://help.github.com/articles/about-milestones][About milestones]]
+    - [[https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests][Creating and editing milestones for issues and pull requests]]
+    - [[https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests][Associating milestones with issues and pull requests]]
+    - [[https://help.github.com/articles/filtering-issues-and-pull-requests-by-milestone][Filtering issues and pull requests by milestone]]
+    - [[https://help.github.com/articles/viewing-your-milestone-s-progress][Viewing your milestone's progress]]
+
+  - [[https://help.github.com/articles/finding-information-in-a-repository][Finding information in a repository]]
+
+    - [[https://help.github.com/articles/filtering-issues-and-pull-requests][Filtering issues and pull requests]]
+    - [[https://help.github.com/articles/filtering-issues-and-pull-requests-by-assignees][Filtering issues and pull requests by assignees]]
+    - [[https://help.github.com/articles/filtering-issues-and-pull-requests-by-labels][Filtering issues and pull requests by labels]]
+    - [[https://help.github.com/articles/filtering-pull-requests-by-review-status][Filtering pull requests by review status]]
+    - [[https://help.github.com/articles/sorting-issues-and-pull-requests][Sorting issues and pull requests]]
+    - [[https://help.github.com/articles/using-search-to-filter-issues-and-pull-requests][Using search to filter issues and pull requests]]
+    - [[https://help.github.com/articles/sharing-filters][Sharing filters]]
+
+* [[https://help.github.com/categories/administering-a-repository][Administering a repository]]
+
+  - [[https://help.github.com/articles/managing-repository-settings][Managing repository settings]]
+
+    - [[https://help.github.com/articles/about-repository-transfers][About repository transfers]]
+    - [[https://help.github.com/articles/transferring-a-repository-owned-by-your-personal-account][Transferring a repository owned by your personal account]]
+    - [[https://help.github.com/articles/transferring-a-repository-owned-by-your-organization][Transferring a repository owned by your organization]]
+    - [[https://help.github.com/articles/allowing-people-to-fork-a-private-repository-owned-by-your-organization][Allowing people to fork a private repository owned by your organization]]
+    - [[https://help.github.com/articles/renaming-a-repository][Renaming a repository]]
+    - [[https://help.github.com/articles/making-a-public-repository-private][Making a public repository private]]
+    - [[https://help.github.com/articles/making-a-private-repository-public][Making a private repository public]]
+    - [[https://help.github.com/articles/deleting-a-repository][Deleting a repository]]
+    - [[https://help.github.com/articles/customizing-how-changed-files-appear-on-github][Customizing how changed files appear on GitHub]]
+
+  - [[https://help.github.com/articles/managing-branches-in-your-repository][Managing branches in your repository]]
+
+    - [[https://help.github.com/articles/setting-the-default-branch][Setting the default branch]]
+    - [[https://help.github.com/articles/viewing-branches-in-your-repository][Viewing branches in your repository]]
+    - [[https://help.github.com/articles/deleting-and-restoring-branches-in-a-pull-request][Deleting and restoring branches in a pull request]]
+
+  - [[https://help.github.com/articles/configuring-pull-request-merges][Configuring pull request merges]]
+
+    - [[https://help.github.com/articles/about-merge-methods-on-github][About merge methods on GitHub]]
+    - [[https://help.github.com/articles/configuring-commit-squashing-for-pull-requests][Configuring commit squashing for pull requests]]
+    - [[https://help.github.com/articles/configuring-commit-rebasing-for-pull-requests][Configuring commit rebasing for pull requests]]
+
+  - [[https://help.github.com/articles/defining-the-mergeability-of-pull-requests][Defining the mergeability of pull requests]]
+
+    - [[https://help.github.com/articles/about-protected-branches][About protected branches]]
+    - [[https://help.github.com/articles/configuring-protected-branches][Configuring protected branches]]
+    - [[https://help.github.com/articles/about-required-status-checks][About required status checks]]
+    - [[https://help.github.com/articles/types-of-required-status-checks][Types of required status checks]]
+    - [[https://help.github.com/articles/enabling-required-status-checks][Enabling required status checks]]
+    - [[https://help.github.com/articles/about-branch-restrictions][About branch restrictions]]
+    - [[https://help.github.com/articles/enabling-branch-restrictions][Enabling branch restrictions]]
+    - [[https://help.github.com/articles/about-required-reviews-for-pull-requests][About required reviews for pull requests]]
+    - [[https://help.github.com/articles/enabling-required-reviews-for-pull-requests][Enabling required reviews for pull requests]]
+    - [[https://help.github.com/articles/about-required-commit-signing][About required commit signing]]
+    - [[https://help.github.com/articles/enabling-required-commit-signing][Enabling required commit signing]]
+
+  - [[https://help.github.com/articles/updating-your-project-s-dependencies][Updating your project's dependencies]]
+
+    - [[https://help.github.com/articles/about-security-alerts-for-vulnerable-dependencies][About security alerts for vulnerable dependencies]]
+    - [[https://help.github.com/articles/viewing-and-updating-vulnerable-dependencies-in-your-repository][Viewing and updating vulnerable dependencies in your repository]]
+    - [[https://help.github.com/articles/managing-alerts-for-vulnerable-dependencies-in-your-organization-s-repositories][Managing alerts for vulnerable dependencies in your organization's repositories]]
+
+* [[https://help.github.com/categories/gists][Gists]]
+
+  - [[https://help.github.com/articles/about-gists][About gists]]
+  - [[https://help.github.com/articles/creating-gists][Creating gists]]
+  - [[https://help.github.com/articles/forking-and-cloning-gists][Forking and cloning gists]]
+
+* [[https://help.github.com/categories/wiki][Wiki]]
+
+  - [[https://help.github.com/articles/about-github-wikis][About GitHub Wikis]]
+  - [[https://help.github.com/articles/adding-wiki-pages-via-the-online-interface][Adding wiki pages via the online interface]]
+  - [[https://help.github.com/articles/editing-wiki-pages-via-the-online-interface][Editing wiki pages via the online interface]]
+  - [[https://help.github.com/articles/creating-a-footer][Creating a footer]]
+  - [[https://help.github.com/articles/creating-a-sidebar][Creating a sidebar]]
+  - [[https://help.github.com/articles/adding-and-editing-wiki-pages-locally][Adding and editing wiki pages locally]]
+  - [[https://help.github.com/articles/viewing-a-wiki-s-history-of-changes][Viewing a wiki's history of changes]]
+  - [[https://help.github.com/articles/adding-images-to-wikis][Adding images to wikis]]
+  - [[https://help.github.com/articles/adding-links-to-wikis][Adding links to wikis]]
+  - [[https://help.github.com/articles/supported-mediawiki-formats][Supported MediaWiki formats]]
+  - [[https://help.github.com/articles/changing-access-permissions-for-wikis][Changing access permissions for wikis]]
+  - [[https://help.github.com/articles/disabling-wikis][Disabling wikis]]
+
+* [[https://help.github.com/categories/automation][Automation]]
+
+  - [[https://help.github.com/articles/getting-started-with-the-api][Getting started with the API]]
+  - [[https://help.github.com/articles/git-automation-with-oauth-tokens][Git automation with OAuth tokens]]
+  - [[https://help.github.com/articles/about-webhooks][About Webhooks]]
+
+* [[https://help.github.com/categories/customizing-your-github-workflow][Customizing your GitHub workflow]]
+
+  - [[https://help.github.com/articles/exploring-integrations][Exploring integrations]]
+
+    - [[https://help.github.com/articles/about-integrations][About integrations]]
+    - [[https://help.github.com/articles/about-github-marketplace][About GitHub Marketplace]]
+    - [[https://help.github.com/articles/about-github-extensions-for-third-party-applications][About GitHub extensions for third-party applications]]
+
+  - [[https://help.github.com/articles/purchasing-and-installing-apps-in-github-marketplace][Purchasing and installing apps in GitHub Marketplace]]
+
+    - [[https://help.github.com/articles/about-billing-for-github-marketplace][About billing for GitHub Marketplace]]
+    - [[https://help.github.com/articles/installing-an-app-in-your-personal-account][Installing an app in your personal account]]
+    - [[https://help.github.com/articles/installing-an-app-in-your-organization][Installing an app in your organization]]
+
+* [[https://help.github.com/categories/github-pages-basics][GitHub Pages Basics]]
+
+  - [[https://help.github.com/articles/what-is-github-pages][What is GitHub Pages?]]
+  - [[https://help.github.com/articles/configuring-a-publishing-source-for-github-pages][Configuring a publishing source for GitHub Pages]]
+  - [[https://help.github.com/articles/user-organization-and-project-pages][User, Organization, and Project Pages]]
+  - [[https://help.github.com/articles/creating-project-pages-using-the-command-line][Creating Project Pages using the command line]]
+  - [[https://help.github.com/articles/securing-your-github-pages-site-with-https][Securing your GitHub Pages site with HTTPS]]
+  - [[https://help.github.com/articles/unpublishing-a-project-pages-site][Unpublishing a Project Pages site]]
+  - [[https://help.github.com/articles/unpublishing-a-user-pages-site][Unpublishing a User Pages site]]
+  - [[https://help.github.com/articles/further-reading-on-github-pages][Further reading on GitHub Pages]]
+
+* [[https://help.github.com/categories/customizing-github-pages][Customizing GitHub Pages]]
+
+  - [[https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages][Using Jekyll as a static site generator with GitHub Pages]]
+
+    - [[https://help.github.com/articles/about-github-pages-and-jekyll][About GitHub Pages and Jekyll]]
+    - [[https://help.github.com/articles/about-jekyll-themes-on-github][About Jekyll themes on GitHub]]
+    - [[https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site][Adding a Jekyll theme to your GitHub Pages site]]
+    - [[https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser][Adding a Jekyll theme to your GitHub Pages site with the Jekyll Theme Chooser]]
+    - [[https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme][Customizing CSS and HTML in your Jekyll theme]]
+    - [[https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll][Setting up your GitHub Pages site locally with Jekyll]]
+    - [[https://help.github.com/articles/configuring-jekyll][Configuring Jekyll]]
+
+  - [[https://help.github.com/articles/troubleshooting-github-pages-builds][Troubleshooting GitHub Pages builds]]
+
+    - [[https://help.github.com/articles/viewing-jekyll-build-error-messages][Viewing Jekyll build error messages]]
+    - [[https://help.github.com/articles/generic-jekyll-build-failures][Generic Jekyll build failures]]
+    - [[https://help.github.com/articles/page-build-failed-missing-docs-folder][Page build failed: Missing docs folder]]
+    - [[https://help.github.com/articles/page-build-failed-invalid-submodule][Page build failed: Invalid submodule]]
+    - [[https://help.github.com/articles/page-build-failed-missing-submodule][Page build failed: Missing submodule]]
+    - [[https://help.github.com/articles/page-build-failed-markdown-errors][Page build failed: Markdown errors]]
+    - [[https://help.github.com/articles/page-build-failed-config-file-error][Page build failed: Config file error]]
+    - [[https://help.github.com/articles/page-build-failed-unknown-tag-error][Page build failed: Unknown tag error]]
+    - [[https://help.github.com/articles/page-build-failed-tag-not-properly-terminated][Page build failed: Tag not properly terminated]]
+    - [[https://help.github.com/articles/page-build-failed-tag-not-properly-closed][Page build failed: Tag not properly closed]]
+    - [[https://help.github.com/articles/page-build-failed-file-does-not-exist-in-includes-directory][Page build failed: File does not exist in includes directory]]
+    - [[https://help.github.com/articles/page-build-failed-file-is-a-symlink][Page build failed: File is a symlink]]
+    - [[https://help.github.com/articles/page-build-failed-symlink-does-not-exist-within-your-site-s-repository][Page build failed: Symlink does not exist within your site's repository]]
+    - [[https://help.github.com/articles/page-build-failed-file-is-not-properly-utf-8-encoded][Page build failed: File is not properly UTF-8 encoded]]
+    - [[https://help.github.com/articles/page-build-failed-invalid-post-date][Page build failed: Invalid post date]]
+    - [[https://help.github.com/articles/page-build-failed-invalid-sass-or-scss][Page build failed: Invalid Sass or SCSS]]
+    - [[https://help.github.com/articles/page-build-failed-invalid-highlighter-language][Page build failed: Invalid highlighter language]]
+    - [[https://help.github.com/articles/updating-your-markdown-processor-to-kramdown][Updating your Markdown processor to kramdown]]
+    - [[https://help.github.com/articles/page-build-failed-relative-permalinks-configured][Page build failed: Relative permalinks configured]]
+    - [[https://help.github.com/articles/page-build-failed-syntax-error-in-for-loop][Page build failed: Syntax error in 'for' loop]]
+    - [[https://help.github.com/articles/files-that-start-with-an-underscore-are-missing][Files that start with an underscore are missing]]
+    - [[https://help.github.com/articles/page-build-failed-invalid-yaml-in-data-file][Page build failed: Invalid YAML in data file]]
+    - [[https://help.github.com/articles/page-build-failed-date-is-not-a-valid-datetime][Page build failed: Date is not a valid datetime]]
+
+  - [[https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site][Adding Jekyll plugins to a GitHub Pages site]]
+
+    - [[https://help.github.com/articles/configuring-jekyll-plugins][Configuring Jekyll plugins]]
+    - [[https://help.github.com/articles/sitemaps-for-github-pages][Sitemaps for GitHub Pages]]
+    - [[https://help.github.com/articles/search-engine-optimization-for-github-pages][Search engine optimization for GitHub Pages]]
+    - [[https://help.github.com/articles/repository-metadata-on-github-pages][Repository metadata on GitHub Pages]]
+    - [[https://help.github.com/articles/atom-rss-feeds-for-github-pages][Atom (RSS) feeds for GitHub Pages]]
+    - [[https://help.github.com/articles/redirects-on-github-pages][Redirects on GitHub Pages]]
+    - [[https://help.github.com/articles/emoji-on-github-pages][Emoji on GitHub Pages]]
+    - [[https://help.github.com/articles/mentions-on-github-pages][@Mentions on GitHub Pages]]
+
+  - [[https://help.github.com/articles/using-a-custom-domain-with-github-pages][Using a custom domain with GitHub Pages]]
+
+    - [[https://help.github.com/articles/quick-start-setting-up-a-custom-domain][Quick start: Setting up a custom domain]]
+    - [[https://help.github.com/articles/about-supported-custom-domains][About supported custom domains]]
+    - [[https://help.github.com/articles/custom-domain-redirects-for-github-pages-sites][Custom domain redirects for GitHub Pages sites]]
+    - [[https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site][Adding or removing a custom domain for your GitHub Pages site]]
+    - [[https://help.github.com/articles/setting-up-an-apex-domain][Setting up an apex domain]]
+    - [[https://help.github.com/articles/setting-up-a-www-subdomain][Setting up a www subdomain]]
+    - [[https://help.github.com/articles/setting-up-an-apex-domain-and-www-subdomain][Setting up an apex domain and www subdomain]]
+    - [[https://help.github.com/articles/setting-up-a-custom-subdomain][Setting up a custom subdomain]]
+    - [[https://help.github.com/articles/troubleshooting-custom-domains][Troubleshooting custom domains]]
+
+  - [[https://help.github.com/articles/additional-customizations-for-github-pages][Additional customizations for GitHub Pages]]
+
+    - [[https://help.github.com/articles/creating-a-custom-404-page-for-your-github-pages-site][Creating a custom 404 page for your GitHub Pages site]]
+    - [[https://help.github.com/articles/using-syntax-highlighting-on-github-pages][Using syntax highlighting on GitHub Pages]]
+    - [[https://help.github.com/articles/using-a-static-site-generator-other-than-jekyll][Using a static site generator other than Jekyll]]
+    - [[https://help.github.com/articles/mime-types-on-github-pages][MIME types on GitHub Pages]]
+    - [[https://help.github.com/articles/should-i-rename-lt-username-github-com-gt-repositories-to-lt-username-github-io-gt][Should I rename <username.github.com> repositories to <username.github.io>?]]
+    - [[https://help.github.com/articles/using-submodules-with-pages][Using submodules with Pages]]
+
+* [[https://help.github.com/categories/teaching-and-learning-with-github-education][Teaching and learning with GitHub Education]]
+
+  - [[https://help.github.com/articles/using-github-at-your-educational-institution][Using GitHub at your educational institution]]
+
+    - [[https://help.github.com/articles/about-github-education][About GitHub Education]]
+    - [[https://help.github.com/articles/about-campus-experts][About Campus Experts]]
+    - [[https://help.github.com/articles/about-campus-advisors][About Campus Advisors]]
+
+  - [[https://help.github.com/articles/using-github-for-your-schoolwork][Using GitHub for your schoolwork]]
+
+    - [[https://help.github.com/articles/about-github-education-for-students][About GitHub Education for students]]
+    - [[https://help.github.com/articles/applying-for-a-student-developer-pack][Applying for a student developer pack]]
+    - [[https://help.github.com/articles/applying-for-a-discount-for-your-first-robotics-team][Applying for a discount for your FIRST Robotics team]]
+    - [[https://help.github.com/articles/why-was-my-application-for-a-student-developer-pack-denied][Why was my application for a student developer pack denied?]]
+
+  - [[https://help.github.com/articles/using-github-in-your-classroom-and-research][Using GitHub in your classroom and research]]
+
+    - [[https://help.github.com/articles/about-github-education-for-educators-and-researchers][About GitHub Education for educators and researchers]]
+    - [[https://help.github.com/articles/applying-for-a-classroom-discount][Applying for a classroom discount]]
+    - [[https://help.github.com/articles/applying-for-a-discount-for-your-school-club][Applying for a discount for your school club]]
+    - [[https://help.github.com/articles/applying-for-an-academic-research-discount][Applying for an academic research discount]]
+    - [[https://help.github.com/articles/why-was-my-application-for-an-educator-or-researcher-discount-denied][Why was my application for an educator or researcher discount denied?]]
+
+* [[https://help.github.com/categories/jobs][Jobs]]
+
+  - [[https://help.github.com/articles/how-to-write-a-great-job-post][How to write a great job post]]
+
+* [[https://help.github.com/categories/working-with-github-support][Working with GitHub Support]]
+
+  - [[https://help.github.com/articles/about-github-support][About GitHub Support]]
+  - [[https://help.github.com/articles/github-business-cloud-support][GitHub Business Cloud support]]
+  - [[https://help.github.com/articles/github-marketplace-support][GitHub Marketplace support]]
+
+* [[https://help.github.com/categories/understanding-how-github-uses-and-protects-your-data][Understanding how GitHub uses and protects your data]]
+
+  - [[https://help.github.com/articles/about-github-s-use-of-your-data][About GitHub's use of your data]]
+  - [[https://help.github.com/articles/opting-into-or-out-of-data-use-for-your-private-repository][Opting into or out of data use for your private repository]]
+
+* [[https://help.github.com/categories/site-policy][Site Policy]]
+
+  - [[https://help.github.com/articles/github-terms-of-service][GitHub Terms of Service]]
+  - [[https://help.github.com/articles/github-corporate-terms-of-service][GitHub Corporate Terms of Service]]
+  - [[https://help.github.com/articles/github-privacy-statement][GitHub Privacy Statement]]
+  - [[https://help.github.com/articles/global-privacy-practices][Global Privacy Practices]]
+  - [[https://help.github.com/articles/github-business-cloud-addendum][GitHub Business Cloud Addendum]]
+  - [[https://help.github.com/articles/github-com-connection-addendum-to-the-github-enterprise-license-agreement][GitHub.com Connection Addendum to the GitHub Enterprise License Agreement]]
+  - [[https://help.github.com/articles/github-logo-policy][GitHub Logo Policy]]
+  - [[https://help.github.com/articles/name-squatting-policy][Name Squatting Policy]]
+  - [[https://help.github.com/articles/dmca-takedown-policy][DMCA Takedown Policy]]
+  - [[https://help.github.com/articles/guide-to-submitting-a-dmca-takedown-notice][Guide to Submitting a DMCA Takedown Notice]]
+  - [[https://help.github.com/articles/guide-to-submitting-a-dmca-counter-notice][Guide to Submitting a DMCA Counter Notice]]
+  - [[https://help.github.com/articles/github-trademark-policy][GitHub Trademark Policy]]
+  - [[https://help.github.com/articles/github-sensitive-data-removal-policy][GitHub Sensitive Data Removal Policy]]
+  - [[https://help.github.com/articles/github-subprocessors-and-cookies][GitHub Subprocessors and Cookies]]
+  - [[https://help.github.com/articles/github-security][GitHub Security]]
+  - [[https://help.github.com/articles/responsible-disclosure-of-security-vulnerabilities][Responsible Disclosure of Security Vulnerabilities]]
+  - [[https://help.github.com/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users][Amendment to GitHub Terms of Service Applicable to U.S. Federal Government Users]]
+  - [[https://help.github.com/articles/guidelines-for-legal-requests-of-user-data][Guidelines for Legal Requests of User Data]]
+  - [[https://help.github.com/articles/github-community-guidelines][GitHub Community Guidelines]]
+  - [[https://help.github.com/articles/github-community-forum-code-of-conduct][GitHub Community Forum Code of Conduct]]
+  - [[https://help.github.com/articles/github-registered-developer-agreement][GitHub Registered Developer Agreement]]
+  - [[https://help.github.com/articles/github-marketplace-terms-of-service][GitHub Marketplace Terms of Service]]
+  - [[https://help.github.com/articles/github-marketplace-developer-agreement][GitHub Marketplace Developer Agreement]]
+  - [[https://help.github.com/articles/github-pre-release-program][GitHub Pre-Release Program]]
+  - [[https://help.github.com/articles/github-open-source-applications-terms-and-conditions][GitHub Open Source Applications Terms and Conditions]]
+  - [[https://help.github.com/articles/github-and-export-controls][GitHub and Export Controls]]
+  - [[https://help.github.com/articles/github-statement-against-modern-slavery-and-child-labor][GitHub Statement Against Modern Slavery and Child Labor]]
