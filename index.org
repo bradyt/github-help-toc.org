@@ -1,4 +1,7 @@
-#+TITLE: help.github.com index
+#+TITLE: org-mode TOC for help.github.com
+
+https://help.github.com
+
 * [[https://help.github.com/categories/bootcamp][Bootcamp]]
 
   - [[https://help.github.com/articles/set-up-git][Set up git]]
